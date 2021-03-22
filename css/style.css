@@ -99,7 +99,7 @@ transition: .4s all ease-in-out;
     width: 50px;
 }
 .img{
-    position: relative;
+position: relative;
 }
 .img::before{
     content: '';
